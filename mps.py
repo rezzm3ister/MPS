@@ -5,7 +5,7 @@ from datetime import datetime
 from time import sleep
 import shutil
 
-mmchoice = 1
+
 #this loads the ID and points of each member
 members = list(csv.reader(open("members.csv")))
 
